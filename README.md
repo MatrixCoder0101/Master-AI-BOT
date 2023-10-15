@@ -29,7 +29,7 @@ You can deploy your own bot, or use mine: [Click Here](https://t.me/Master_AI_YE
 - Track $ balance spent on OpenAI API
 
 <p align="center">
-  <img src="/static/help_group.gif" style="width: 50%; border-radius: 20px"/>
+  <img src="https://github.com/Trendy-Trust/Master-AI-BOT/blob/66f5e01b26391c9076584b4c26ef61c27d9b0027/static/help_group.gif?raw=true" style="width: 50%; border-radius: 20px"/>
 </p>
 
 ---
