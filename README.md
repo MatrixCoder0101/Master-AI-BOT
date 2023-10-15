@@ -61,3 +61,18 @@ You can deploy your own bot, or use mine: [Click Here](https://t.me/Master_AI_YE
 
 ## References
 1. [*Build ChatGPT from GPT-3*](https://learnprompting.org/docs/applied_prompting/build_chatgpt)
+
+## 🔥 Show some support | Donation
+If you find this repository helpful, show your support by giving it a 🌟! Your support means a lot to me and helps me keep contributing to the open-source community.
+
+Also, if you'd like to support me financially, you can do so via my donation link: [https://go.yesbhautik.co.in/8i6wdu](https://go.yesbhautik.co.in/8i6wdu)
+<br><br>
+<a href="https://go.yesbhautik.co.in/8i6wdu">
+  <img src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Free-Download-PNG.png" alt="Donate" width="100">
+</a>
+
+## 💬 Let's chat
+Feel free to reach out to me if you have any questions, ideas or just want to chat. I'm always here to help and connect with the community.
+
+## 📜 License
+This repository is under the MIT License. For more information, see the [LICENSE](LICENSE) file.
